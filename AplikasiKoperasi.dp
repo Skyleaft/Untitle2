@@ -1,0 +1,12 @@
+[Project]
+FileName=E:\DocumentProject\Pascal\AplikasiKoperasi.dp
+Name=AplikasiKoperasi
+MainUnit=E:\DocumentProject\Pascal\UAplikasiKoperasi.pas
+UnitCount=1
+ResFiles=E:\DocumentProject\Pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=E:\DocumentProject\Pascal\UAplikasiKoperasi.pas
+FileTime=1313389709
